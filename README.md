@@ -1,1 +1,1 @@
-This repository contains shell permissions scripts.
+Shell redirections project
